@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lcarames90
 - 👀 I’m interested in Cybersecurity, CLI, Java, JavaScript, Python
-- 🌱 I’m currently learning ... Ethical hacking, networks, Java, Python, JS, C++, C
+- 🌱 I’m currently learning ... Ethical hacking, networks, Java, Python, JS, C++, C.
+- I have a lot of ground to cover, 2022 will be a busy year for me
 - 💞️ I’m looking to collaborate on ...See above!
 - 📫 How to reach me ...discord~~~ Mrwhiskerz#8626
 
