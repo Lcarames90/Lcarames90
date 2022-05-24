@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Lcarames90
-- 👀 I’m interested in Cybersecurity, CLI, Java, JavaScript, Python
-- 🌱 I’m currently learning ... Ethical hacking, networks, Java, Python, JS, C++, C.
-- I have a lot of ground to cover, 2022 will be a busy year for me
-- 💞️ I’m looking to collaborate on ...See above!
-- 📫 How to reach me ...discord~~~ Mrwhiskerz#8626
+- 👋 Hi, I’m Lee
+- 👀 I’m interested in Software Engineering, Web Dev, & (Usability, Security & Privacy)
+- 🌱 I'm learning JavaScript, OOP (In General), Java, Python, PostGreSQL, Mongo 
+- I have a lot of ground to cover, 2022 will be a busy year for me. I'm working through The Odin Project for the summer!
 
-<!---
-Lcarames90/Lcarames90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on anything that is interesting or needs help
+- 📫 How to reach me ...discord~~~ Mrwhiskerz#8626
